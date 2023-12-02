@@ -1,0 +1,118 @@
+§1 **__Grundsätzliche Regeln__**
+§1.1 Sei stets respektvoll und freundlich.
+§1.2 Das Mindestalter für die Teilnahme an Sundown Rising beträgt 16 Jahre.
+§1.3 Das Rollenspiel findet im Jahr 1899 statt. Bitte verhalte dich entsprechend. Die Verwendung von Begriffen wie "Alter", "Digga", "Homie", "Bruda" usw. ist unangemessen und untersagt.
+§1.4 Jeder Spieler ist dafür verantwortlich, ein funktionstüchtiges Mikrofon zu verwenden.
+§1.5 Hintergrundgeräusche wie Tastaturgeräusche, Kindergeschrei oder Fernsehlärm sind störend. Bitte reduziere solche Nebengeräusche auf ein Minimum oder stelle sie ab.
+§1.6 Stelle sicher, dass deine Kopfhörer so eingestellt sind, dass du andere Spieler deutlich hören kannst und ein reibungsloses Rollenspiel möglich ist.
+§1.7 Im Rollenspiel sind Begriffe wie "Käfer", "F-Muskel" oder "ich muss in den Kopf" verboten.
+§1.8 Spiele deinen Charakter so realistisch wie möglich und berücksichtige seine körperliche Belastbarkeit.
+§1.9 Der Einsatz von Schusswaffen oder Gewalt sollte stets das letzte Mittel sein.
+§1.10 Behandle andere Spieler respektvoll und pflege einen respektvollen Umgang miteinander.
+§1.11 Das Nachahmen geistiger oder körperlicher Behinderungen ist untersagt.
+§1.12 Alles, was im Spiel passiert, bleibt im Spiel. Nimm persönliche Animositäten nicht mit ins Rollenspiel.
+§1.13 Achte auf eine klare Trennung zwischen In-Character (IC) und Out-of-Character (OOC).
+§1.14 Extremes Beleidigen, politische Äußerungen, Rassismus, sexistische Inhalte sowie Witze über Behinderungen sind verboten.
+§1.15 Metagaming ist untersagt. Informationen, die außerhalb des Rollenspiels erhalten wurden (z. B. im Teamspeak, auf Twitch oder an anderer Stelle), dürfen im Wilden Westen nicht verwendet werden.
+§1.16 Das Absprechen von Ingame-Situationen außerhalb des Spiels ist verboten.
+§1.17 Die Verweigerung von Rollenspielaktionen ist nicht erlaubt.
+§1.18 Es ist untersagt, sich während eines laufenden Rollenspiels auszuloggen, um Combat Logging zu vermeiden.
+§1.19 Nach einem Neustart des Servers muss ein laufendes Rollenspiel (RP) fortgesetzt werden, als ob es nie unterbrochen wurde. Die beteiligten Parteien sollten mindestens 10 bis 15 Minuten warten, bevor sie die Situation oder den Ort verlassen.
+§1.20 Falls während eines laufenden RP die Internetverbindung unterbrochen wird oder andere technische Probleme auftreten, müssen die Spieler nach Behebung des Problems wieder ins RP einsteigen.
+§1.21 Es ist untersagt, ungewollte Fehler im Spiel oder Preisfehler auszunutzen. Solche Vorkommnisse müssen umgehend dem Support gemeldet werden.
+§1.22 Die Verwendung von Cheats, Hacks, Makros, das Ausnutzen von Bugs oder das Duplizieren von Gegenständen und/oder Geld sind verboten.
+§1.23 In Teamspeak, Discord und RedM muss der Charaktername angegeben werden.
+§1.24 Werbung für andere Projekte ist sowohl im Discord als auch in Teamspeak untersagt.
+§1.25 Die Verwendung von TS3-Plugins und Erweiterungen, die anzeigen, wer gerade spricht, ist nicht erlaubt.
+§1.26 Grafikmodifikationen sind erlaubt, solange sie die Spielphysik nicht verändern. Es wird jedoch empfohlen, darauf zu verzichten.
+§1.27 Der Spieler ist für seinen Account selbst verantwortlich. Die Weitergabe oder der Verkauf an Dritte ist verboten. Ebenso ist der Verkauf von Ingame-Währung und/oder Gegenständen gegen Echtgeld untersagt.
+§1.28 Die Projektleitung behält sich das Recht vor, die Regeln zu ändern.
+ 
+#§2 **__Waffen, Lasso usw.__**
+§2.1 Das Zielen mit einer Waffe wird als Schussankündigung betrachtet. Mein Gegenüber muss dies jedoch deutlich erkennen können. Ebenso gilt das Stoppen mit dem Lasso als Schussankündigung.
+§2.2 Das Rollenspiel (RP) hat immer oberste Priorität. Das Schießen ohne vorheriges RP ist strengstens untersagt! Beide Parteien müssen eine faire Chance haben. Denkt stets an FAIRPLAY.
+§2.3 Es ist strengstens verboten, das Lasso aus reinem Spaß auf andere Personen zu werfen. Verwendet es bitte sinnvoll und gemäß seiner eigentlichen Funktion.
+§2.4 Wenn du mit einem Lasso gefesselt wurdest, darfst du dich nicht eigenständig befreien, auch wenn dies technisch möglich ist. Ausnahme: Wurdest du gefesselt zurückgelassen und die Täter sind nicht mehr in der Nähe.
+§2.5 Das Weitergeben oder Abnehmen von Sheriff-Gegenständen (Abzeichen, Sheriff-Unterlagen usw.) ist untersagt. Diese Gegenstände können ohnehin nur mit dem entsprechenden Job genutzt werden.
+
+§3 **__Bewusstlosigkeit__**
+§3.1 Informationen, die während der Phase der "Bewusstlosigkeit" erhalten werden, dürfen nach dem Erwachen nicht genutzt werden.
+§3.2 Spieler, die reanimiert wurden, müssen im weiteren Verlauf des Rollenspiels ihre Verletzung ausspielen. (Beispiel: Eine Person mit einer Schussverletzung kann nicht fünf Minuten später durch die Gegend rennen. Das würde dem Rollenspiel widersprechen.)
+§3.3 Das Ausloggen, während man bewusstlos ist, ist untersagt.
+§3.4 Das Sprechen als Bewusstloser ist nur dann erlaubt, wenn es sinnvoll ist. Zum Beispiel kann man nach einer Prügelei oder einem Sturz vom Pferd ein paar unverständliche Wörter stammeln.
+
+#§4 **__Allgemeine Regeln__**
+§4.1 Schütze dein eigenes Leben und nehme Rücksicht auf das Leben anderer. Wenn du keine Möglichkeit siehst, eine RP-Situation unverletzt zu verlassen, ist es besser aufzugeben, bevor Schlimmeres passiert.
+§4.2 Zur Kommunikation soll ausschließlich Teamspeak genutzt werden.
+§4.3 Dein Vor- und Nachname sollte seriös und angemessen gewählt sein. Spaß- und Trollnamen werden nachträglich gelöscht.
+§4.4 Mit gefesselten Händen ist es dir nicht erlaubt, zu reiten, zu schlagen oder irgendetwas anderes zu tun, selbst wenn es spieltechnisch möglich wäre!
+§4.5 Wenn du ingame bist, darfst du nicht gleichzeitig auf anderen Teamspeak-Servern oder anderen Kommunikationsplattformen (Discord etc.) aktiv sein.
+§4.6 Animationen im Allgemeinen, egal ob Einzel- oder Partneranimationen, sollten sinnvoll und zum RP passend verwendet werden.
+§4.7 Das Anbauen von Pflanzen ist nur unter freiem Himmel und auf angemessenen Flächen erlaubt.
+§4.8 Trolling - absichtliches Zerstören ohne RP-Hintergrund, Stören und Verhindern von RP, absichtliches Verfolgen oder Stalken ohne weiteren RP-Hintergrund, absichtliches Selbstverletzen oder das bewusste Inkaufnehmen lebensbedrohlicher Verletzungen (z.B. durch Sprünge vom Hausdach oder Ähnliches) sind untersagt.
+§4.9 Das Töten von Nutztieren (Kühe, Schafe, Hühner, Ziegen usw.) ist verboten. (Tiere dürfen ausschließlich in der Wildnis gejagt und erlegt werden).
+§4.10 Sinnloses Töten, Anschießen oder Fesseln von NPC's ist verboten.
+§4.11 Die Verwendung von Stimmverzerrern ist untersagt.
+
+#§5 **__RDM / HDM__**
+§5.1 RDM (Random Death Match), das absichtliche Töten oder schwer Verletzen von Personen/Tieren ohne rechtfertigenden Rollenspiel-Hintergrund ist untersagt.
+§5.2 HDM (Horse Death Match), das absichtliche Umreiten oder Umfahren und schwer Verletzen von Personen/Tieren ohne rechtfertigenden Rollenspiel-Hintergrund ist untersagt.
+
+§6 **__Power RP / Fail RP__**
+§6.1 Power RP ist strikt untersagt. Unter Power RP versteht man jene Rollenspiel-Situationen, in denen dem Gegenüber keinerlei Handlungsspielraum oder Bedenkzeit gewährt wird, um sich vor Schaden zu schützen.
+§6.2 Sollte man einen Regelverstoß beobachten, so ist es wichtig, dabei in seiner Rolle zu bleiben. Die Situation wird fortgeführt, sofern es zumutbar ist, und idealerweise wird der Verstoß in einem Video dokumentiert, um ihn anschließend dem Support-Team zu melden.
+§6.3 Das vorzeitige Verlassen einer laufenden Rollenspiel-Situation aus egoistischen Gründen wird als RP-Flucht oder Combatlog angesehen.
+§6.4 Während des In-Character-Seins darf keine Out-of-Character-Kommunikation stattfinden.
+§6.5 Die Herstellung von Moonshine ist ausschließlich im Freien gestattet.
+
+#§7 **__Gruppierungen__**
+§7.1 Jeder Spieler darf nur Mitglied in einer Gruppe sein.Er kann nicht gleichzeitig Mitglied mehrerer Gruppierungen sein.
+§7.2 Korruption ist erlaubt, jedoch nur in einem angemessenen und akzeptablen Maß. Übermäßige Korruption oder missbräuchliches Verhalten sind nicht gestattet.
+§7.3 Um eine Gruppierung zu erstellen, muss ein Konzept-Ticket eingereicht werden. Dieses Konzept sollte die Grundidee und den Zweck der Gruppierung erklären. Die Gruppe sollte dann für eine gewisse Zeit bespielt werden.
+§7.4 Eine Gruppierung kann aus höchstens 10 Mitgliedern bestehen. Es dürfen nicht mehr Personen in einer Gruppierung sein, als diese Obergrenze vorgibt.
+§7.5 Es dürfen maximal 8 Mitglieder einer Gruppierung aktiv agieren.Es gibt jedoch eine Ausnahmeregelung für die Zivilisten-Fraktion, die __eigenständig__ mit maximal 3 Mitgliedern aktiv sein kann.
+§7.6 Ein kurzfristiger Zusammenschluss aus maximal zwei Gruppen ist möglich, beachtet aber die 8-Mitglieder-Regel.
+§7.7 Zivilisten selbst sind als Fraktion anzusehen. Eine Zivilisten-Fraktion kann jedoch nur mit höchstens 5 Mitgliedern eigenständig handeln und agieren.
+§7.8 Wenn ein Konflikt zwischen zwei Fraktionen entsteht, müssen diese Fraktionen den Konflikt eigenständig untereinander lösen. Externe Unterstützung oder Einmischung anderer Gruppierungen ist nicht gestattet.
+
+#§8 **__Illegale Aktivitäten__**
+§8.1 Dem Spieler, der überfallen oder ausgeraubt wird, darf nur EINE Waffe abgenommen werden. Zudem darf höchstens 50% seines Geldes und 50% eines Gegenstands genommen werden.
+§8.2 Wenn eine Waffe bei einem Raub abgenommen wurde, muss diese mindestens 2 Stunden im eigenen Inventar getragen werden. Die Waffe darf in dieser Zeit nicht optisch verändert werden.
+§8.3 Überfälle oder Raubüberfälle sind nur mit einer RP-Hintergrundgeschichte gestattet! (Ein einfacher Grund wie "Ich brauche diese Waffe" oder "Ich brauche Geld" zählt nicht als RP-Hintergrund).
+§8.4 Forderungen müssen realistisch und umsetzbar sein. Forderungen nach Änderungen von Gesetzen oder Serverregeln sind nicht umsetzbar.
+§8.5 Es dürfen keine NPCs oder erfundene Fake-Geiseln genommen werden.
+§8.6 Das Verletzen einer kooperativen Geisel ist nur dann erlaubt, wenn die gestellten Forderungen nicht erfüllt wurden. 
+§8.7 Es ist verboten, kriminelle Handlungen zu begehen und anschließend sofort das Pferd oder die Kleidung zu wechseln. Ebenso ist es verboten, während einer Flucht Pferde/Kutschen wegzuschicken. Dies ist erst erlaubt, wenn der/die Gegenspieler länger als 20 Minuten außer Sichtweite sind oder die Verfolgung abgebrochen wurde.
+§8.8 Eine maskierte Person kann nicht anhand der Stimme oder des Akzents erkannt werden. Die Kleidung kann jedoch als Hinweis genutzt werden, um nach verdächtigen Personen zu suchen, aber nicht um sie zu identifizieren! Es ist kein Beweis! Spieler, die beispielsweise gemeinsame Gruppen oder Fraktionen bespielen, sind hiervon ausgenommen.
+§8.9 Wenn ein Spieler aufgrund eines Game Crashes, also aufgrund nicht beeinflussbarer Umstände, vom Server getrennt wird, muss diesem Spieler eine faire Chance gegeben werden.
+§8.10 Das Stehlen/Klauen/Rauben aus Pferden (Satteltaschen) oder Kutschen ist strengstens verboten. (Es wird geloggt und führt zum sofortigen Ausschluss von unserem Projekt.)
+
+#§9 **__Sexuelle Gewalt, Nötigung oder Beleidigung__**
+§9.1 Das Nachstellen, Inszenieren oder Andeuten von Vergewaltigungen oder schweren Misshandlungen ist strengstens untersagt. Diese Regel gilt auch für die Hintergrundgeschichte von Charakteren, insbesondere wenn es sich um Kindercharaktere handelt.
+§9.2 Jegliche Form von sexueller Nötigung oder Belästigung (sei es im direkten Rollenspiel, über Discord oder Teamspeak) ist verboten. Ein "Nein" bedeutet "Nein"!
+§9.3 Das Spielen von Szenen mit sexuellem Inhalt oder ähnlichem ist nicht gestattet.
+§9.4 Das Darstellen von Schwangerschaften ist nicht erlaubt.
+
+§10 **__Tod__**
+§10.1 Ein freiwilliger Ausstieg sollte als letzter Ausweg betrachtet werden und nur in extrem verfahrenen RP-Situationen in Betracht gezogen werden. Ein endgültiger Abschied muss beim Support angefragt und genehmigt werden.
+§10.2 Ein erzwungenes Ende sollte als letzte Option verwendet werden, um das RP zu beeinflussen. Erst, wenn es keine Alternativen mehr gibt, sollte über diese Möglichkeit nachgedacht werden. Ein endgültiges Ableben kann nur durch eine vom Support genehmigte Aktion erfolgen. Wenn eine solche Aktion beantragt und genehmigt wird, hat automatisch auch die gegnerische Partei das Recht, eine entsprechende Handlung durchzuführen.
+§10.3 Ein erzwungenes Ende muss angemessen dargestellt werden und sollte mindestens 20 Minuten andauern. Außerdem muss ein Beweis in Form eines Videos erbracht werden.
+ 
+#§11 **__Support__**
+§11.1 Jeder Supportfall muss innerhalb von 48 Stunden gemeldet werden.
+§11.2 Ansprüche an den Support bezüglich Verlust von Geld und Sachwerten können nur mit angemessenem Nachweis geltend gemacht werden.
+§11.3 Supportfälle (z.B. RDM, HDM und Fail RP) können nur mit entsprechendem Nachweis behandelt werden.
+§11.4 Teammitglieder sind gleichgestellt und sollten im Spiel wie normale Mitspieler behandelt werden. Diskussionen über ihre Arbeit am Projekt sind unerwünscht.
+
+§13 **__Streaming & Aufnahmen__**
+§13.1 Das Streamen und Aufnehmen unterliegt Einschränkungen in Team-Räumen, Support-Räumen und allgemeinen "Talk"-Räumen.
+§13.2 Es ist untersagt, sich auf dem Server aufzuhalten und gleichzeitig Streams anderer Spieler auf dem Server anzusehen.
+§13.3 Wenn ein Spieler streamt oder aufnimmt, gelten die folgenden __Richtlinien__:
+
+§13.3.1 Wir legen Wert auf einen verantwortungsvollen Umgang mit dem gezeigten Inhalt.
+§13.3.2 Jeder Streamer ist verpflichtet, die Streaming-Richtlinien der jeweiligen Streaming-Plattform und das deutsche Recht einzuhalten.
+§13.3.3 Als Streamer repräsentierst du den Server und die Community nach außen. Verhalte dich dementsprechend und achte auf dein Rollenspiel.
+§13.3.4 Es ist nicht gestattet, Personen im Spiel auf laufende Streams hinzuweisen, auch die Verwendung von Code-Wörtern ist untersagt.
+§13.3.5 Das Rollenspiel sollte jederzeit gewahrt werden und die Interaktion mit dem Stream-Chat sollte nachrangig sein!
+
+Mit der Zustimmung zu den Serverregeln stimmst du der Nutzung deiner Video-on-Demand-Inhalte zu und startest mit den Whitelist-Fragen.

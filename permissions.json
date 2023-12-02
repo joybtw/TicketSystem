@@ -1,0 +1,40 @@
+{
+    "1123352222714048625": [
+        "command.command"
+    ],
+
+    "1123562764175159408": [
+        "command.ticket_remove", 
+        "command.ticket_add",
+        "command.custom_ticket", 
+        "command.send_board",
+        "command.weiterleiten",
+        "command.embed",
+        "command.change_status"
+    ],
+
+    "1148900438565994556": [
+        "command.ticket_remove", 
+        "command.ticket_add",
+        "command.custom_ticket", 
+        "command.send_board",
+        "command.change_status",
+        "command.weiterleiten"
+    ],
+
+    "249569087225724928": [
+        "command.custom_ticket"
+    ],
+
+    "1123562323873902652": [
+        "command.change_status", 
+        "command.weiterleiten", 
+        "command.ticket_add", 
+        "command.ticket_remove"
+    ],
+
+    "1159482334727381163": [
+        "command.weiterleiten",
+        "command.change_status"
+    ]
+}
